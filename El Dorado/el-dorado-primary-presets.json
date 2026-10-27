@@ -4551,5 +4551,301 @@
                 5
             ]
         }
+    },
+    "6": {
+        "bri": 200,
+        "mainseg": 0,
+        "n": "Witch's Brew",
+        "on": true,
+        "seg": [
+            {
+                "bri": 255,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "cct": 127,
+                "col": [
+                    [
+                        255,
+                        70,
+                        0
+                    ],
+                    [
+                        120,
+                        0,
+                        255
+                    ],
+                    [
+                        60,
+                        255,
+                        0
+                    ]
+                ],
+                "frz": false,
+                "fx": 110,
+                "grp": 1,
+                "id": 0,
+                "ix": 140,
+                "m12": 0,
+                "mi": false,
+                "n": "",
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "of": 0,
+                "on": true,
+                "pal": 5,
+                "rev": false,
+                "sel": true,
+                "set": 0,
+                "si": 0,
+                "spc": 0,
+                "start": 0,
+                "stop": 465,
+                "sx": 90
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            }
+        ],
+        "transition": 7
+    },
+    "7": {
+        "bri": 200,
+        "mainseg": 0,
+        "n": "Pumpkin Patrol",
+        "on": true,
+        "seg": [
+            {
+                "bri": 255,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "cct": 127,
+                "col": [
+                    [
+                        255,
+                        70,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        120,
+                        0,
+                        255
+                    ]
+                ],
+                "frz": false,
+                "fx": 52,
+                "grp": 1,
+                "id": 0,
+                "ix": 70,
+                "m12": 0,
+                "mi": false,
+                "n": "",
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "of": 0,
+                "on": true,
+                "pal": 0,
+                "rev": false,
+                "sel": true,
+                "set": 0,
+                "si": 0,
+                "spc": 0,
+                "start": 0,
+                "stop": 465,
+                "sx": 110
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            }
+        ],
+        "transition": 7
     }
 }
