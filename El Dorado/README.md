@@ -45,13 +45,17 @@ To control the whole house, use the **side controller**. The front's own UI only
 
 ## Presets (side controller)
 
+Halloween presets (IDs 1–7) live in `el-dorado-halloween-presets.json`; everything else is in `el-dorado-primary-presets.json`. Restoring presets replaces all of them, so merge the two files before restoring.
+
 | ID | Name | Notes |
 |---|---|---|
 | 1 | Two Dots Halloween | Original preset |
 | 2 | Haunted Glitch | Full-white lightning over a dim violet background (Lightning) |
-| 3 | Blood Surge | Red lightning at varied brightness over a dim blood-red glow |
+| 3 | Blood Wash | Slow Breathe fade between bright red and a dim blood-red, no flicker |
 | 4 | Watching Eyes | Red Halloween Eyes over a dim purple background |
-| 5 | **Halloween Haunt** | Looping playlist: Glitch 15 s → Blood Surge 6 s → Glitch 12 s → Eyes 10 s |
+| 5 | **Halloween Haunt** | Looping playlist: Glitch 15 s → Blood Wash 6 s → Glitch 12 s → Eyes 10 s |
+| 6 | Witch's Brew | Orange/purple/green palette effect |
+| 7 | Pumpkin Patrol | Orange chase on black with purple accent |
 | 11–36 | Imported scenes | From illiam08's *Ultimate WLED Scenes Collection* (Starry Night … Desert Sky) |
 
 - All presets cover segment 0 = LEDs **0–465**.
@@ -86,3 +90,32 @@ To control the whole house, use the **side controller**. The front's own UI only
   - If white looks tinted at the far end of the side run, inject power there.
   - Put a 10 A inline fuse on the positive line of each run.
 - **Importing community presets:** don't upload someone else's full `presets.json`, because it replaces yours. Add each preset to a free slot through the preset editor's API command box, then set its segment to 0–465.
+
+## Future Ideas
+
+### Astronomy
+- Dark-sky mode: one tap, or a schedule on imaging nights, turns everything off so the house doesn’t light up your subs. For star parties or backyard observing, a very dim deep red keeps everyone’s night vision.
+- ISS flyover: a short script pulls ISS pass times and sends one bright dot across the roofline in the same direction the station crosses the sky. Good outreach material for SJAA, too.
+- Moon phase meter: light the fraction of the front matching tonight’s illumination, in a soft silver.
+- Sky compass: treat the roofline as a horizon and map compass directions onto it. Then place colored dots where the Moon and bright planets are rising or setting.
+- Meteor shower nights: run the Meteor effect during the Perseids or Geminids, and switch to dark-sky mode once you’re actually out watching.
+
+### Music
+- Sound-reactive mode: the front controller already has the AudioReactive feature turned on and pins assigned for a digital microphone. Wire a cheap INMP441 mic and the lights pulse to whatever’s playing. The side can share the same audio data over the network.
+- Band nights: point that mic at the garage during rehearsal. Or use LedFx, which takes audio from a computer and streams it to WLED over DDP, the same protocol your side-to-front link already uses.
+- Full light-and-music show: xLights lets you program a show to a song, with neighbors tuning in on a small FM transmitter. It’s the classic Christmas setup, and your hardware is already compatible.
+Practical but fun
+- Porch light zone: warm white over the front door while everything else runs an effect.
+Bay Area air quality: shift the house’s color with the local AQI during wildfire season, green through orange to purple.
+- Tomorrow’s weather: a quick color glow at dusk, such as blue for rain or white for a cold night.
+- Bin-night reminder: a slow green pulse along the front the evening before garbage day.
+- Countdowns: an LED bar that fills up toward Halloween, Christmas or a band gig.
+
+### Interactive
+- Trick-or-treat jump scare: a hidden button, or a motion sensor on the walkway, fires a burst of Blood Wash when someone reaches the door. Add a speaker for a scream.
+- Neighbors pick the effect: a lawn sign with a QR code linking to a simple page with a few safe choices. The controllers shouldn’t be exposed to the internet directly, so this needs a little middleman service.
+- Roofline Pong: a two-player game where the ball runs along the eaves.
+- Holidays and the full house
+- Ready-made sets for the year: candy-cane chase and slow warm twinkle for Christmas, Fireworks for the 4th, green waves for St. Patrick’s Day, and team colors on game days.
+- Sunset schedule: have the lights come on automatically at sunset. This needs the time server turned on and your location set on the side controller; it’s currently off.
+- Whole-house chases: once sections 3 and 4 are in, a ghost or comet can circle the whole house without breaking.

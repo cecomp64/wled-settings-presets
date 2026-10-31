@@ -1,0 +1,916 @@
+{
+    "1": {
+        "bri": 149,
+        "mainseg": 0,
+        "n": "Two Dots Halloween",
+        "on": true,
+        "seg": [
+            {
+                "bri": 255,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "cct": 127,
+                "col": [
+                    [
+                        255,
+                        0,
+                        255
+                    ],
+                    [
+                        255,
+                        128,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "frz": false,
+                "fx": 50,
+                "grp": 1,
+                "id": 0,
+                "ix": 128,
+                "m12": 0,
+                "mi": false,
+                "n": "",
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "of": 0,
+                "on": true,
+                "pal": 0,
+                "rev": false,
+                "sel": true,
+                "set": 0,
+                "si": 0,
+                "spc": 0,
+                "start": 0,
+                "stop": 465,
+                "sx": 128
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            }
+        ],
+        "transition": 7
+    },
+    "2": {
+        "bri": 255,
+        "mainseg": 0,
+        "n": "Haunted Glitch",
+        "on": true,
+        "seg": [
+            {
+                "bri": 255,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "cct": 127,
+                "col": [
+                    [
+                        255,
+                        255,
+                        255
+                    ],
+                    [
+                        67,
+                        0,
+                        156
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "frz": false,
+                "fx": 57,
+                "grp": 1,
+                "id": 0,
+                "ix": 255,
+                "m12": 0,
+                "mi": false,
+                "n": "",
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "of": 0,
+                "on": true,
+                "pal": 0,
+                "rev": false,
+                "sel": true,
+                "set": 0,
+                "si": 0,
+                "spc": 0,
+                "start": 0,
+                "stop": 465,
+                "sx": 245
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            }
+        ],
+        "transition": 0
+    },
+    "3": {
+        "bri": 220,
+        "mainseg": 0,
+        "n": "Blood Wash",
+        "on": true,
+        "seg": [
+            {
+                "bri": 255,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "cct": 127,
+                "col": [
+                    [
+                        255,
+                        0,
+                        0
+                    ],
+                    [
+                        25,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "frz": false,
+                "fx": 2,
+                "grp": 1,
+                "id": 0,
+                "ix": 255,
+                "m12": 0,
+                "mi": false,
+                "n": "",
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "of": 0,
+                "on": true,
+                "pal": 0,
+                "rev": false,
+                "sel": true,
+                "set": 0,
+                "si": 0,
+                "spc": 0,
+                "start": 0,
+                "stop": 465,
+                "sx": 35
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            }
+        ],
+        "transition": 30
+    },
+    "4": {
+        "bri": 200,
+        "mainseg": 0,
+        "n": "Watching Eyes",
+        "on": true,
+        "seg": [
+            {
+                "bri": 255,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "cct": 127,
+                "col": [
+                    [
+                        255,
+                        0,
+                        0
+                    ],
+                    [
+                        50,
+                        0,
+                        110
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "frz": false,
+                "fx": 82,
+                "grp": 1,
+                "id": 0,
+                "ix": 140,
+                "m12": 0,
+                "mi": false,
+                "n": "",
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "of": 0,
+                "on": true,
+                "pal": 0,
+                "rev": false,
+                "sel": true,
+                "set": 0,
+                "si": 0,
+                "spc": 0,
+                "start": 0,
+                "stop": 465,
+                "sx": 128
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            }
+        ],
+        "transition": 5
+    },
+    "5": {
+        "n": "Halloween Haunt",
+        "on": true,
+        "playlist": {
+            "dur": [
+                150,
+                60,
+                120,
+                100
+            ],
+            "end": 0,
+            "ps": [
+                2,
+                3,
+                2,
+                4
+            ],
+            "repeat": 0,
+            "transition": [
+                0,
+                30,
+                0,
+                5
+            ]
+        }
+    },
+    "6": {
+        "bri": 200,
+        "mainseg": 0,
+        "n": "Witch's Brew",
+        "on": true,
+        "seg": [
+            {
+                "bri": 255,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "cct": 127,
+                "col": [
+                    [
+                        255,
+                        70,
+                        0
+                    ],
+                    [
+                        120,
+                        0,
+                        255
+                    ],
+                    [
+                        60,
+                        255,
+                        0
+                    ]
+                ],
+                "frz": false,
+                "fx": 110,
+                "grp": 1,
+                "id": 0,
+                "ix": 140,
+                "m12": 0,
+                "mi": false,
+                "n": "",
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "of": 0,
+                "on": true,
+                "pal": 5,
+                "rev": false,
+                "sel": true,
+                "set": 0,
+                "si": 0,
+                "spc": 0,
+                "start": 0,
+                "stop": 465,
+                "sx": 90
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            }
+        ],
+        "transition": 7
+    },
+    "7": {
+        "bri": 200,
+        "mainseg": 0,
+        "n": "Pumpkin Patrol",
+        "on": true,
+        "seg": [
+            {
+                "bri": 255,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "cct": 127,
+                "col": [
+                    [
+                        255,
+                        70,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        120,
+                        0,
+                        255
+                    ]
+                ],
+                "frz": false,
+                "fx": 52,
+                "grp": 1,
+                "id": 0,
+                "ix": 70,
+                "m12": 0,
+                "mi": false,
+                "n": "",
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "of": 0,
+                "on": true,
+                "pal": 0,
+                "rev": false,
+                "sel": true,
+                "set": 0,
+                "si": 0,
+                "spc": 0,
+                "start": 0,
+                "stop": 465,
+                "sx": 110
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            }
+        ],
+        "transition": 7
+    }
+}
