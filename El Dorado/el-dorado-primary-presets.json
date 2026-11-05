@@ -49,7 +49,7 @@
                 "si": 0,
                 "spc": 0,
                 "start": 0,
-                "stop": 465,
+                "stop": 874,
                 "sx": 6
             },
             {
@@ -197,7 +197,7 @@
                 "si": 0,
                 "spc": 0,
                 "start": 0,
-                "stop": 465,
+                "stop": 874,
                 "sx": 150
             },
             {
@@ -345,7 +345,7 @@
                 "si": 0,
                 "spc": 0,
                 "start": 0,
-                "stop": 465,
+                "stop": 874,
                 "sx": 80
             },
             {
@@ -493,7 +493,7 @@
                 "si": 0,
                 "spc": 0,
                 "start": 0,
-                "stop": 465,
+                "stop": 874,
                 "sx": 10
             },
             {
@@ -641,7 +641,7 @@
                 "si": 0,
                 "spc": 0,
                 "start": 0,
-                "stop": 465,
+                "stop": 874,
                 "sx": 120
             },
             {
@@ -789,7 +789,7 @@
                 "si": 0,
                 "spc": 0,
                 "start": 0,
-                "stop": 465,
+                "stop": 874,
                 "sx": 140
             },
             {
@@ -937,7 +937,7 @@
                 "si": 0,
                 "spc": 0,
                 "start": 0,
-                "stop": 465,
+                "stop": 874,
                 "sx": 255
             },
             {
@@ -1085,7 +1085,7 @@
                 "si": 0,
                 "spc": 0,
                 "start": 0,
-                "stop": 465,
+                "stop": 874,
                 "sx": 8
             },
             {
@@ -1233,7 +1233,7 @@
                 "si": 0,
                 "spc": 0,
                 "start": 0,
-                "stop": 465,
+                "stop": 874,
                 "sx": 75
             },
             {
@@ -1381,7 +1381,7 @@
                 "si": 0,
                 "spc": 0,
                 "start": 0,
-                "stop": 465,
+                "stop": 874,
                 "sx": 110
             },
             {
@@ -1529,7 +1529,7 @@
                 "si": 0,
                 "spc": 0,
                 "start": 0,
-                "stop": 465,
+                "stop": 874,
                 "sx": 90
             },
             {
@@ -1677,7 +1677,7 @@
                 "si": 0,
                 "spc": 0,
                 "start": 0,
-                "stop": 465,
+                "stop": 874,
                 "sx": 50
             },
             {
@@ -1825,7 +1825,7 @@
                 "si": 0,
                 "spc": 0,
                 "start": 0,
-                "stop": 465,
+                "stop": 874,
                 "sx": 80
             },
             {
@@ -1973,7 +1973,7 @@
                 "si": 0,
                 "spc": 0,
                 "start": 0,
-                "stop": 465,
+                "stop": 874,
                 "sx": 100
             },
             {
@@ -2121,7 +2121,7 @@
                 "si": 0,
                 "spc": 0,
                 "start": 0,
-                "stop": 465,
+                "stop": 874,
                 "sx": 75
             },
             {
@@ -2269,7 +2269,7 @@
                 "si": 0,
                 "spc": 0,
                 "start": 0,
-                "stop": 465,
+                "stop": 874,
                 "sx": 30
             },
             {
@@ -2463,7 +2463,7 @@
                 "si": 0,
                 "spc": 0,
                 "start": 245,
-                "stop": 465,
+                "stop": 874,
                 "sx": 25
             },
             {
@@ -2608,7 +2608,7 @@
                 "si": 0,
                 "spc": 0,
                 "start": 0,
-                "stop": 465,
+                "stop": 874,
                 "sx": 45
             },
             {
@@ -2756,7 +2756,7 @@
                 "si": 0,
                 "spc": 0,
                 "start": 0,
-                "stop": 465,
+                "stop": 874,
                 "sx": 35
             },
             {
@@ -2904,7 +2904,7 @@
                 "si": 0,
                 "spc": 0,
                 "start": 0,
-                "stop": 465,
+                "stop": 874,
                 "sx": 15
             },
             {
@@ -3052,7 +3052,7 @@
                 "si": 0,
                 "spc": 0,
                 "start": 0,
-                "stop": 465,
+                "stop": 874,
                 "sx": 29
             },
             {
@@ -3200,7 +3200,7 @@
                 "si": 0,
                 "spc": 0,
                 "start": 0,
-                "stop": 465,
+                "stop": 874,
                 "sx": 20
             },
             {
@@ -3348,7 +3348,7 @@
                 "si": 0,
                 "spc": 0,
                 "start": 0,
-                "stop": 465,
+                "stop": 874,
                 "sx": 60
             },
             {
@@ -3496,7 +3496,7 @@
                 "si": 0,
                 "spc": 0,
                 "start": 0,
-                "stop": 465,
+                "stop": 874,
                 "sx": 25
             },
             {
@@ -3644,7 +3644,7 @@
                 "si": 0,
                 "spc": 0,
                 "start": 0,
-                "stop": 465,
+                "stop": 874,
                 "sx": 30
             },
             {
@@ -3838,7 +3838,7 @@
                 "si": 0,
                 "spc": 0,
                 "start": 245,
-                "stop": 465,
+                "stop": 874,
                 "sx": 45
             },
             {
@@ -3942,17 +3942,25 @@
             {
                 "id": 0,
                 "start": 0,
-                "stop": 465,
+                "stop": 874,
                 "on": true
             },
             {
                 "id": 1,
                 "stop": 0
+            },
+            {
+                "id": 2,
+                "stop": 0
+            },
+            {
+                "id": 3,
+                "stop": 0
             }
         ]
     },
     "38": {
-        "n": "Layout: Split (Side + Front)",
+        "n": "Layout: Split (N/E/S/W)",
         "on": true,
         "mainseg": 0,
         "seg": [
@@ -3966,12 +3974,24 @@
                 "id": 1,
                 "start": 245,
                 "stop": 465,
+                "on": true
+            },
+            {
+                "id": 2,
+                "start": 465,
+                "stop": 665,
+                "on": true
+            },
+            {
+                "id": 3,
+                "start": 665,
+                "stop": 874,
                 "on": true
             }
         ]
     },
     "39": {
-        "n": "Layout: Side Only",
+        "n": "Layout: North Only",
         "on": true,
         "mainseg": 0,
         "seg": [
@@ -3986,11 +4006,23 @@
                 "start": 245,
                 "stop": 465,
                 "on": false
+            },
+            {
+                "id": 2,
+                "start": 465,
+                "stop": 665,
+                "on": false
+            },
+            {
+                "id": 3,
+                "start": 665,
+                "stop": 874,
+                "on": false
             }
         ]
     },
     "40": {
-        "n": "Layout: Front Only",
+        "n": "Layout: East Only",
         "on": true,
         "mainseg": 0,
         "seg": [
@@ -4004,6 +4036,80 @@
                 "id": 1,
                 "start": 245,
                 "stop": 465,
+                "on": true
+            },
+            {
+                "id": 2,
+                "start": 465,
+                "stop": 665,
+                "on": false
+            },
+            {
+                "id": 3,
+                "start": 665,
+                "stop": 874,
+                "on": false
+            }
+        ]
+    },
+    "41": {
+        "n": "Layout: South Only",
+        "on": true,
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "start": 0,
+                "stop": 245,
+                "on": false
+            },
+            {
+                "id": 1,
+                "start": 245,
+                "stop": 465,
+                "on": false
+            },
+            {
+                "id": 2,
+                "start": 465,
+                "stop": 665,
+                "on": true
+            },
+            {
+                "id": 3,
+                "start": 665,
+                "stop": 874,
+                "on": false
+            }
+        ]
+    },
+    "42": {
+        "n": "Layout: West Only",
+        "on": true,
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "start": 0,
+                "stop": 245,
+                "on": false
+            },
+            {
+                "id": 1,
+                "start": 245,
+                "stop": 465,
+                "on": false
+            },
+            {
+                "id": 2,
+                "start": 465,
+                "stop": 665,
+                "on": false
+            },
+            {
+                "id": 3,
+                "start": 665,
+                "stop": 874,
                 "on": true
             }
         ]

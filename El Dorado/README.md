@@ -24,7 +24,7 @@ LED index:  0 ─────────── 244 | 245 ───────�
             side controller   |  ── sent over DDP to the front controller ──
 ```
 
-- **Side controller (master):** renders all 465 LEDs.
+- **North controller (master):** renders all 874 LEDs (465 in the older two-section layout below).
   - Output 1: GPIO16, LEDs 0–244.
   - Output 2: virtual **DDP** output, LEDs 245–464 → `192.168.50.152`.
 - **Front controller:** receives DDP data and goes into live mode automatically.
@@ -45,7 +45,7 @@ To control the whole house, use the **side controller**. The front's own UI only
 
 ## Presets (side controller)
 
-Halloween presets (IDs 1–8) live in `el-dorado-halloween-presets.json`; everything else is in `el-dorado-primary-presets.json`. Restoring presets replaces all of them, so merge the two files before restoring.
+Halloween presets (IDs 1–8) live in `el-dorado-halloween-presets.json`; everything else is in `el-dorado-primary-presets.json`. Both files include the layout presets (37–42), so each works on its own. Restoring presets replaces all of them, so to restore everything, merge the two files first (the layout entries are identical).
 
 | ID | Name | Notes |
 |---|---|---|
@@ -125,3 +125,21 @@ Bay Area air quality: shift the house’s color with the local AQI during wildfi
 - Ready-made sets for the year: candy-cane chase and slow warm twinkle for Christmas, Fireworks for the 4th, green waves for St. Patrick’s Day, and team colors on game days.
 - Sunset schedule: have the lights come on automatically at sunset. This needs the time server turned on and your location set on the side controller; it’s currently off.
 - Whole-house chases: once sections 3 and 4 are in, a ghost or comet can circle the whole house without breaking.
+
+
+## Four-section update (North, East, South, West)
+
+`el-dorado-north-side-wled-cfg.json` is the master and now renders **874 LEDs** as one virtual strip:
+
+| LEDs | Section | Controller | IP | Output |
+|---|---|---|---|---|
+| 0–244 | North | master, GPIO16 | DHCP (reserve it) | local |
+| 245–464 | East | `wled-8ddaa4` | 192.168.50.152 | DDP |
+| 465–664 | South | `south-side-wled` | 192.168.50.33 | DDP |
+| 665–873 | West | `west-back-wled` | 192.168.50.173 | DDP |
+
+- Section order is N → E → S → W. If the sections are chained differently around the house, reorder the DDP outputs and the layout presets.
+- All effect presets cover segment 0 = 0–874. Northern Lights 2 (27), Desert Sky (36) and preset 8 keep North on segment 0 and now run segment 1 over East + South + West (245–874).
+- Layout presets: 37 Whole House (one segment), 38 Split (four segments), 39 North Only, 40 East Only, 41 South Only, 42 West Only.
+- Reserve the South and West IPs in the router, same as East.
+- South's Max current is now 12,000 mA, matching the others.
