@@ -3933,5 +3933,79 @@
             }
         ],
         "transition": 7
+    },
+    "37": {
+        "n": "Layout: Whole House",
+        "on": true,
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "start": 0,
+                "stop": 465,
+                "on": true
+            },
+            {
+                "id": 1,
+                "stop": 0
+            }
+        ]
+    },
+    "38": {
+        "n": "Layout: Split (Side + Front)",
+        "on": true,
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "start": 0,
+                "stop": 245,
+                "on": true
+            },
+            {
+                "id": 1,
+                "start": 245,
+                "stop": 465,
+                "on": true
+            }
+        ]
+    },
+    "39": {
+        "n": "Layout: Side Only",
+        "on": true,
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "start": 0,
+                "stop": 245,
+                "on": true
+            },
+            {
+                "id": 1,
+                "start": 245,
+                "stop": 465,
+                "on": false
+            }
+        ]
+    },
+    "40": {
+        "n": "Layout: Front Only",
+        "on": true,
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "start": 0,
+                "stop": 245,
+                "on": false
+            },
+            {
+                "id": 1,
+                "start": 245,
+                "stop": 465,
+                "on": true
+            }
+        ]
     }
 }

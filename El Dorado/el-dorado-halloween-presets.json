@@ -476,7 +476,7 @@
                 "fx": 82,
                 "grp": 1,
                 "id": 0,
-                "ix": 140,
+                "ix": 220,
                 "m12": 0,
                 "mi": false,
                 "n": "",
@@ -912,5 +912,106 @@
             }
         ],
         "transition": 7
+    },
+    "8": {
+        "bri": 200,
+        "mainseg": 0,
+        "n": "Eyes Front, Blood Wash Side",
+        "on": true,
+        "seg": [
+            {
+                "bri": 255,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "cct": 127,
+                "col": [
+                    [
+                        255,
+                        0,
+                        0
+                    ],
+                    [
+                        25,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "frz": false,
+                "fx": 2,
+                "grp": 1,
+                "id": 0,
+                "ix": 255,
+                "m12": 0,
+                "mi": false,
+                "n": "",
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "of": 0,
+                "on": true,
+                "pal": 0,
+                "rev": false,
+                "sel": true,
+                "set": 0,
+                "si": 0,
+                "spc": 0,
+                "start": 0,
+                "stop": 245,
+                "sx": 35
+            },
+            {
+                "bri": 255,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "cct": 127,
+                "col": [
+                    [
+                        255,
+                        0,
+                        0
+                    ],
+                    [
+                        50,
+                        0,
+                        110
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "frz": false,
+                "fx": 82,
+                "grp": 1,
+                "id": 1,
+                "ix": 220,
+                "m12": 0,
+                "mi": false,
+                "n": "",
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "of": 0,
+                "on": true,
+                "pal": 0,
+                "rev": false,
+                "sel": false,
+                "set": 0,
+                "si": 0,
+                "spc": 0,
+                "start": 245,
+                "stop": 465,
+                "sx": 128
+            }
+        ],
+        "transition": 5
     }
 }

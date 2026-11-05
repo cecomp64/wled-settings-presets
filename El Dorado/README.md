@@ -45,7 +45,7 @@ To control the whole house, use the **side controller**. The front's own UI only
 
 ## Presets (side controller)
 
-Halloween presets (IDs 1–7) live in `el-dorado-halloween-presets.json`; everything else is in `el-dorado-primary-presets.json`. Restoring presets replaces all of them, so merge the two files before restoring.
+Halloween presets (IDs 1–8) live in `el-dorado-halloween-presets.json`; everything else is in `el-dorado-primary-presets.json`. Restoring presets replaces all of them, so merge the two files before restoring.
 
 | ID | Name | Notes |
 |---|---|---|
@@ -56,9 +56,15 @@ Halloween presets (IDs 1–7) live in `el-dorado-halloween-presets.json`; everyt
 | 5 | **Halloween Haunt** | Looping playlist: Glitch 15 s → Blood Wash 6 s → Glitch 12 s → Eyes 10 s |
 | 6 | Witch's Brew | Orange/purple/green palette effect |
 | 7 | Pumpkin Patrol | Orange chase on black with purple accent |
+| 8 | Eyes Front, Blood Wash Side | Split layout: Blood Wash on the side (0–244), Watching Eyes on the front (245–464) |
+| 37 | Layout: Whole House | One segment, LEDs 0–464 (the default) |
+| 38 | Layout: Split (Side + Front) | Two segments: Side 0–244 and Front 245–464, both on |
+| 39 | Layout: Side Only | Split layout with the front segment off |
+| 40 | Layout: Front Only | Split layout with the side segment off |
 | 11–36 | Imported scenes | From illiam08's *Ultimate WLED Scenes Collection* (Starry Night … Desert Sky) |
 
-- All presets cover segment 0 = LEDs **0–465**.
+- All presets other than preset 8 and the layout presets (37–40) cover segment 0 = LEDs **0–465**, so applying one puts the house back in whole-house mode.
+- Layout presets only change segment bounds and on/off, not effects. Apply **Split**, then pick an effect for each segment in the UI. Applying **Side Only** or **Front Only** keeps the effects and just blanks the other part.
 - Northern Lights 2 (27) and Desert Sky (36) are split: side is 0–245, front is 245–465.
 - When saving a preset, keep **Save segment bounds** ticked so it keeps covering 0–465.
 
