@@ -24,7 +24,7 @@ LED index:  0 ─────────── 244 | 245 ───────�
             side controller   |  ── sent over DDP to the front controller ──
 ```
 
-- **North controller (master):** renders all 874 LEDs (465 in the older two-section layout below).
+- **North controller (master):** renders all 970 LEDs (465 in the older two-section layout below).
   - Output 1: GPIO16, LEDs 0–244.
   - Output 2: virtual **DDP** output, LEDs 245–464 → `192.168.50.152`.
 - **Front controller:** receives DDP data and goes into live mode automatically.
@@ -129,17 +129,17 @@ Bay Area air quality: shift the house’s color with the local AQI during wildfi
 
 ## Four-section update (North, East, South, West)
 
-`el-dorado-north-side-wled-cfg.json` is the master and now renders **874 LEDs** as one virtual strip:
+`el-dorado-north-side-wled-cfg.json` is the master and now renders **970 LEDs** as one virtual strip:
 
 | LEDs | Section | Controller | IP | Output |
 |---|---|---|---|---|
 | 0–244 | North | master, GPIO16 | DHCP (reserve it) | local |
 | 245–464 | East | `wled-8ddaa4` | 192.168.50.152 | DDP |
-| 465–664 | South | `south-side-wled` | 192.168.50.33 | DDP |
-| 665–873 | West | `west-back-wled` | 192.168.50.173 | DDP |
+| 465–719 | South | `south-side-wled` | 192.168.50.33 | DDP |
+| 720–969 | West | `west-back-wled` | 192.168.50.173 | DDP |
 
 - Section order is N → E → S → W. If the sections are chained differently around the house, reorder the DDP outputs and the layout presets.
-- All effect presets cover segment 0 = 0–874. Northern Lights 2 (27), Desert Sky (36) and preset 8 keep North on segment 0 and now run segment 1 over East + South + West (245–874).
+- All effect presets cover segment 0 = 0–970. Northern Lights 2 (27), Desert Sky (36) and preset 8 keep North on segment 0 and now run segment 1 over East + South + West (245–970).
 - Layout presets: 37 Whole House (one segment), 38 Split (four segments), 39 North Only, 40 East Only, 41 South Only, 42 West Only.
 - Reserve the South and West IPs in the router, same as East.
 - South's Max current is now 12,000 mA, matching the others.
