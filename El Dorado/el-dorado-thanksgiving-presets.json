@@ -1,0 +1,1250 @@
+{
+    "43": {
+        "bri": 180,
+        "mainseg": 0,
+        "n": "Harvest Waves",
+        "on": true,
+        "seg": [
+            {
+                "bri": 255,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "cct": 127,
+                "col": [
+                    [
+                        255,
+                        80,
+                        0
+                    ],
+                    [
+                        160,
+                        0,
+                        30
+                    ],
+                    [
+                        255,
+                        140,
+                        10
+                    ]
+                ],
+                "frz": false,
+                "fx": 67,
+                "grp": 1,
+                "id": 0,
+                "ix": 128,
+                "m12": 0,
+                "mi": false,
+                "n": "",
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "of": 0,
+                "on": true,
+                "pal": 4,
+                "rev": false,
+                "sel": true,
+                "set": 0,
+                "si": 0,
+                "spc": 0,
+                "start": 0,
+                "stop": 970,
+                "sx": 40
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            }
+        ],
+        "transition": 40
+    },
+    "44": {
+        "bri": 170,
+        "mainseg": 0,
+        "n": "Cornucopia",
+        "on": true,
+        "seg": [
+            {
+                "bri": 255,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "cct": 127,
+                "col": [
+                    [
+                        255,
+                        80,
+                        0
+                    ],
+                    [
+                        150,
+                        60,
+                        10
+                    ],
+                    [
+                        190,
+                        10,
+                        40
+                    ]
+                ],
+                "frz": false,
+                "fx": 65,
+                "grp": 1,
+                "id": 0,
+                "ix": 128,
+                "m12": 0,
+                "mi": false,
+                "n": "",
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "of": 0,
+                "on": true,
+                "pal": 4,
+                "rev": false,
+                "sel": true,
+                "set": 0,
+                "si": 0,
+                "spc": 0,
+                "start": 0,
+                "stop": 970,
+                "sx": 25
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            }
+        ],
+        "transition": 40
+    },
+    "45": {
+        "bri": 170,
+        "mainseg": 0,
+        "n": "Falling Leaves",
+        "on": true,
+        "seg": [
+            {
+                "bri": 255,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "cct": 127,
+                "col": [
+                    [
+                        255,
+                        80,
+                        0
+                    ],
+                    [
+                        40,
+                        12,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "frz": false,
+                "fx": 80,
+                "grp": 1,
+                "id": 0,
+                "ix": 150,
+                "m12": 0,
+                "mi": false,
+                "n": "",
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "of": 0,
+                "on": true,
+                "pal": 39,
+                "rev": false,
+                "sel": true,
+                "set": 0,
+                "si": 0,
+                "spc": 0,
+                "start": 0,
+                "stop": 970,
+                "sx": 60
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            }
+        ],
+        "transition": 40
+    },
+    "46": {
+        "bri": 170,
+        "mainseg": 0,
+        "n": "Maple Drift",
+        "on": true,
+        "seg": [
+            {
+                "bri": 255,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "cct": 127,
+                "col": [
+                    [
+                        255,
+                        80,
+                        0
+                    ],
+                    [
+                        160,
+                        0,
+                        30
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "frz": false,
+                "fx": 75,
+                "grp": 1,
+                "id": 0,
+                "ix": 128,
+                "m12": 0,
+                "mi": false,
+                "n": "",
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "of": 0,
+                "on": true,
+                "pal": 47,
+                "rev": false,
+                "sel": true,
+                "set": 0,
+                "si": 0,
+                "spc": 0,
+                "start": 0,
+                "stop": 970,
+                "sx": 45
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            }
+        ],
+        "transition": 40
+    },
+    "47": {
+        "bri": 190,
+        "mainseg": 0,
+        "n": "Cranberry & Gold",
+        "on": true,
+        "seg": [
+            {
+                "bri": 255,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "cct": 127,
+                "col": [
+                    [
+                        255,
+                        140,
+                        10
+                    ],
+                    [
+                        160,
+                        0,
+                        30
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "frz": false,
+                "fx": 2,
+                "grp": 1,
+                "id": 0,
+                "ix": 255,
+                "m12": 0,
+                "mi": false,
+                "n": "",
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "of": 0,
+                "on": true,
+                "pal": 0,
+                "rev": false,
+                "sel": true,
+                "set": 0,
+                "si": 0,
+                "spc": 0,
+                "start": 0,
+                "stop": 970,
+                "sx": 30
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            }
+        ],
+        "transition": 50
+    },
+    "48": {
+        "bri": 170,
+        "mainseg": 0,
+        "n": "Harvest Aurora",
+        "on": true,
+        "seg": [
+            {
+                "bri": 255,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "cct": 127,
+                "col": [
+                    [
+                        255,
+                        110,
+                        20
+                    ],
+                    [
+                        160,
+                        0,
+                        30
+                    ],
+                    [
+                        150,
+                        60,
+                        10
+                    ]
+                ],
+                "frz": false,
+                "fx": 38,
+                "grp": 1,
+                "id": 0,
+                "ix": 120,
+                "m12": 0,
+                "mi": false,
+                "n": "",
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "of": 0,
+                "on": true,
+                "pal": 4,
+                "rev": false,
+                "sel": true,
+                "set": 0,
+                "si": 0,
+                "spc": 0,
+                "start": 0,
+                "stop": 970,
+                "sx": 30
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            }
+        ],
+        "transition": 40
+    },
+    "49": {
+        "bri": 160,
+        "mainseg": 0,
+        "n": "Hearth",
+        "on": true,
+        "seg": [
+            {
+                "bri": 255,
+                "c1": 128,
+                "c2": 128,
+                "c3": 16,
+                "cct": 127,
+                "col": [
+                    [
+                        255,
+                        110,
+                        20
+                    ],
+                    [
+                        90,
+                        20,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        0
+                    ]
+                ],
+                "frz": false,
+                "fx": 102,
+                "grp": 1,
+                "id": 0,
+                "ix": 80,
+                "m12": 0,
+                "mi": false,
+                "n": "",
+                "o1": false,
+                "o2": false,
+                "o3": false,
+                "of": 0,
+                "on": true,
+                "pal": 0,
+                "rev": false,
+                "sel": true,
+                "set": 0,
+                "si": 0,
+                "spc": 0,
+                "start": 0,
+                "stop": 970,
+                "sx": 50
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            },
+            {
+                "stop": 0
+            }
+        ],
+        "transition": 50
+    },
+    "50": {
+        "n": "Thanksgiving Gathering",
+        "on": true,
+        "playlist": {
+            "ps": [
+                43,
+                45,
+                44,
+                47,
+                46,
+                48
+            ],
+            "dur": [
+                1800,
+                1800,
+                1800,
+                1200,
+                1800,
+                1800
+            ],
+            "transition": [
+                60,
+                60,
+                60,
+                60,
+                60,
+                60
+            ],
+            "repeat": 0,
+            "end": 0
+        }
+    },
+    "37": {
+        "n": "Layout: Whole House",
+        "on": true,
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "start": 0,
+                "stop": 970,
+                "on": true
+            },
+            {
+                "id": 1,
+                "stop": 0
+            },
+            {
+                "id": 2,
+                "stop": 0
+            },
+            {
+                "id": 3,
+                "stop": 0
+            }
+        ]
+    },
+    "38": {
+        "n": "Layout: Split (N/E/S/W)",
+        "on": true,
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "start": 0,
+                "stop": 245,
+                "on": true
+            },
+            {
+                "id": 1,
+                "start": 245,
+                "stop": 465,
+                "on": true
+            },
+            {
+                "id": 2,
+                "start": 465,
+                "stop": 720,
+                "on": true
+            },
+            {
+                "id": 3,
+                "start": 720,
+                "stop": 970,
+                "on": true
+            }
+        ]
+    },
+    "39": {
+        "n": "Layout: North Only",
+        "on": true,
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "start": 0,
+                "stop": 245,
+                "on": true
+            },
+            {
+                "id": 1,
+                "start": 245,
+                "stop": 465,
+                "on": false
+            },
+            {
+                "id": 2,
+                "start": 465,
+                "stop": 720,
+                "on": false
+            },
+            {
+                "id": 3,
+                "start": 720,
+                "stop": 970,
+                "on": false
+            }
+        ]
+    },
+    "40": {
+        "n": "Layout: East Only",
+        "on": true,
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "start": 0,
+                "stop": 245,
+                "on": false
+            },
+            {
+                "id": 1,
+                "start": 245,
+                "stop": 465,
+                "on": true
+            },
+            {
+                "id": 2,
+                "start": 465,
+                "stop": 720,
+                "on": false
+            },
+            {
+                "id": 3,
+                "start": 720,
+                "stop": 970,
+                "on": false
+            }
+        ]
+    },
+    "41": {
+        "n": "Layout: South Only",
+        "on": true,
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "start": 0,
+                "stop": 245,
+                "on": false
+            },
+            {
+                "id": 1,
+                "start": 245,
+                "stop": 465,
+                "on": false
+            },
+            {
+                "id": 2,
+                "start": 465,
+                "stop": 720,
+                "on": true
+            },
+            {
+                "id": 3,
+                "start": 720,
+                "stop": 970,
+                "on": false
+            }
+        ]
+    },
+    "42": {
+        "n": "Layout: West Only",
+        "on": true,
+        "mainseg": 0,
+        "seg": [
+            {
+                "id": 0,
+                "start": 0,
+                "stop": 245,
+                "on": false
+            },
+            {
+                "id": 1,
+                "start": 245,
+                "stop": 465,
+                "on": false
+            },
+            {
+                "id": 2,
+                "start": 465,
+                "stop": 720,
+                "on": false
+            },
+            {
+                "id": 3,
+                "start": 720,
+                "stop": 970,
+                "on": true
+            }
+        ]
+    }
+}

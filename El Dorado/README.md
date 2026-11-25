@@ -45,7 +45,25 @@ To control the whole house, use the **side controller**. The front's own UI only
 
 ## Presets (side controller)
 
-Halloween presets (IDs 1–8) live in `el-dorado-halloween-presets.json`; everything else is in `el-dorado-primary-presets.json`. Both files include the layout presets (37–42), so each works on its own. Restoring presets replaces all of them, so to restore everything, merge the two files first (the layout entries are identical).
+Halloween presets (IDs 1–8) live in `el-dorado-halloween-presets.json`, Thanksgiving presets (IDs 43–50) in `el-dorado-thanksgiving-presets.json`, and everything else in `el-dorado-primary-presets.json`. Every file includes the layout presets (37–42), so each works on its own. Restoring presets replaces all of them, so to restore everything, merge the files first (the layout entries are identical and the other IDs don't overlap).
+
+### Thanksgiving (IDs 43–50)
+
+Oranges, maroons, browns and harvest gold, with slow effects and 4–6 s crossfades.
+
+| ID | Name | Notes |
+|---|---|---|
+| 43 | Harvest Waves | Colorwaves over a smooth pumpkin → maroon → gold gradient |
+| 44 | Cornucopia | Palette effect slowly drifting pumpkin, chestnut brown and cranberry along the roofline |
+| 45 | Falling Leaves | Twinklefox using the Autumn palette over a dim brown background |
+| 46 | Maple Drift | Lake effect using the Orangery palette, a slow ripple of reds and oranges |
+| 47 | Cranberry & Gold | Slow Breathe between harvest gold and maroon (the Thanksgiving counterpart to Blood Wash) |
+| 48 | Harvest Aurora | Aurora waves of amber, maroon and brown |
+| 49 | Hearth | Candle Multi in warm amber, a gentle fireplace flicker for dinner |
+| 50 | **Thanksgiving Gathering** | Looping playlist: 43 → 45 → 44 → 47 → 46 → 48, 2–3 min each with 6 s crossfades |
+
+- The Autumn palette (45) includes a few yellow-green tones, like leaves still turning. If you want strictly orange, maroon and brown, switch 45 to the Color Gradient palette.
+- Browns on LEDs look like dim amber or chestnut. They read best next to the brighter oranges.
 
 | ID | Name | Notes |
 |---|---|---|
