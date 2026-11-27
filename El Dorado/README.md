@@ -71,6 +71,8 @@ Oranges, maroons, browns and harvest gold, with slow effects and 4–6 s crossfa
 - **Sunset:** applies preset 50 (Thanksgiving Gathering) every day. To use a different show, change the sunset timer's preset in Config → Time & Macros.
 - **11:00 PM:** applies preset 51 (Lights Off) every day.
 - The time server is on (`0.wled.pool.ntp.org`, US-Pacific with daylight saving). The location is San Jose city center (37.34, -121.89), which is close enough for sunset times.
+- Timer order matters on this firmware (0.14.4). The list in `cfg.json` fills the regular slots first, then the **second-to-last hour-255 entry is sunrise and the last is sunset**. A sunset entry listed first ends up as sunrise. Check the result in Config → Time & Macros after editing.
+- Applying preset 51 from a timer also stops the running playlist, so the lights stay off (tested).
 - The sunset timer depends on the time server. If the master shows a wrong time (in /json/info), check that it's online and that NTP is still enabled.
 
 | ID | Name | Notes |
