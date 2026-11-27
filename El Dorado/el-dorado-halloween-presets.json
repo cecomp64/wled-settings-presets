@@ -1193,5 +1193,9 @@
                 "on": true
             }
         ]
+    },
+    "51": {
+        "n": "Lights Off",
+        "on": false
     }
 }

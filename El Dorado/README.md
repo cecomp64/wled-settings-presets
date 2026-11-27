@@ -64,6 +64,14 @@ Oranges, maroons, browns and harvest gold, with slow effects and 4–6 s crossfa
 
 - The Autumn palette (45) includes a few yellow-green tones, like leaves still turning. If you want strictly orange, maroon and brown, switch 45 to the Color Gradient palette.
 - Browns on LEDs look like dim amber or chestnut. They read best next to the brighter oranges.
+- **51 Lights Off** turns the lights off. It's in every presets file, so the 11 PM timer works whichever file is restored.
+
+## Schedule (North controller)
+
+- **Sunset:** applies preset 50 (Thanksgiving Gathering) every day. To use a different show, change the sunset timer's preset in Config → Time & Macros.
+- **11:00 PM:** applies preset 51 (Lights Off) every day.
+- The time server is on (`0.wled.pool.ntp.org`, US-Pacific with daylight saving). The location is San Jose city center (37.34, -121.89), which is close enough for sunset times.
+- The sunset timer depends on the time server. If the master shows a wrong time (in /json/info), check that it's online and that NTP is still enabled.
 
 | ID | Name | Notes |
 |---|---|---|
@@ -141,7 +149,6 @@ Bay Area air quality: shift the house’s color with the local AQI during wildfi
 - Roofline Pong: a two-player game where the ball runs along the eaves.
 - Holidays and the full house
 - Ready-made sets for the year: candy-cane chase and slow warm twinkle for Christmas, Fireworks for the 4th, green waves for St. Patrick’s Day, and team colors on game days.
-- Sunset schedule: have the lights come on automatically at sunset. This needs the time server turned on and your location set on the side controller; it’s currently off.
 - Whole-house chases: once sections 3 and 4 are in, a ghost or comet can circle the whole house without breaking.
 
 
